@@ -35,19 +35,3 @@ You can activate or deactivate any section of the page, use Google Fonts and cus
 Nifty Coming soon plugin will help you to quickly launch Maintenance mode for the website as its offer the option to activate it and continue to work on your website while the guests are redirected to Under construction / Coming soon or Maintenance page.
 
 The plugin should work with any WordPress theme and the installation and setup are really straight forward.
-
-### MAINTENANCE MODE / COMING SOON PLUGIN DEMO
-
-You can see a plugin in action, right here: [Nifty Coming soon Plugin DEMO](https://demo.themeadviser.com/nifty-coming-soon)
-
-### COMING SOON PLUGINs OFFICIAL PAGE
-
-Nifty Coming soon / Maintenance and Under Construction official page - [Nifty Coming soon Plugin Page](https://themeadviser.com/nifty-coming-soon)
-
-### PROPOSE NEW FEATURES
-
-If you have an idea how to make this plugin even better or you need some specific feature that could also benefit the rest of the plugin users and the community, feel free to reach out. 
-
-### SUPPORT THIS PLUGIN
-
-Feel free to ask for help and don't forget to rate our Coming Soon plugin with 5 stars if you feel like its the real thing. :)
