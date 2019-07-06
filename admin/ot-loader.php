@@ -181,7 +181,7 @@ if ( ! class_exists( 'OT_Loader' ) ) {
       /**
        * Current Version number.
        */
-      define( 'OT_VERSION', '1.1.3' );
+      define( 'OT_VERSION', '1.1.4' );
       
       /**
        * For developers: Theme mode.
